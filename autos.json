@@ -1,0 +1,88 @@
+{
+    "0": {
+        "__class__": "Nodo",
+        "__atributos__": {
+            "auto": {
+                "__class__": "Nuevo",
+                "__atributos__": {
+                    "modelo": "123",
+                    "cantPuertas": 123123123123123,
+                    "color": "rtr",
+                    "precioBase": 123.0,
+                    "marca": "Nissan",
+                    "version": "123"
+                }
+            }
+        },
+        "siguiente": 2761515683408
+    },
+    "1": {
+        "__class__": "Nodo",
+        "__atributos__": {
+            "auto": {
+                "__class__": "Nuevo",
+                "__atributos__": {
+                    "modelo": "AS25",
+                    "cantPuertas": 5,
+                    "color": "Rojo",
+                    "precioBase": 123232323.0,
+                    "marca": "Nissan",
+                    "version": "Full"
+                }
+            }
+        },
+        "siguiente": 2761515683088
+    },
+    "2": {
+        "__class__": "Nodo",
+        "__atributos__": {
+            "auto": {
+                "__class__": "Nuevo",
+                "__atributos__": {
+                    "modelo": "IXR",
+                    "cantPuertas": 5,
+                    "color": "Blanco",
+                    "precioBase": 12323213.0,
+                    "marca": "Nissan",
+                    "version": "Base"
+                }
+            }
+        },
+        "siguiente": 2761500976208
+    },
+    "3": {
+        "__class__": "Nodo",
+        "__atributos__": {
+            "auto": {
+                "__class__": "Usado",
+                "__atributos__": {
+                    "modelo": "ESR-25o8",
+                    "cantPuertas": 2,
+                    "color": "Negro",
+                    "precioBase": 32323443.0,
+                    "patente": "ABF-545",
+                    "ano": 2018,
+                    "kilometraje": 12323.0
+                }
+            }
+        },
+        "siguiente": 2761515628560
+    },
+    "4": {
+        "__class__": "Nodo",
+        "__atributos__": {
+            "auto": {
+                "__class__": "Nuevo",
+                "__atributos__": {
+                    "modelo": "Agregado",
+                    "cantPuertas": 123,
+                    "color": "qwe",
+                    "precioBase": 123.0,
+                    "marca": "Nissan",
+                    "version": "123"
+                }
+            }
+        },
+        "siguiente": null
+    }
+}
